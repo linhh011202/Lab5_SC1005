@@ -1,6 +1,6 @@
 1. seg7_driver.v
 
-+edit the bench number and comment 4'd10:
++edit the bench number and comment out 4'd10:
 
 
 
